@@ -17,15 +17,28 @@ namespace universityApiBakend.Models.DataModels
 
         [Required(ErrorMessage = "Requisitos necesarios")]
         public string Requisitos { get; set; } = string.Empty;
-        
+
         [Required(ErrorMessage = "Es necesario seleccionar un Nivel")]
-        public Nivel Nivel { get; set; } 
+        public Nivel Nivel { get; set; } = Nivel.Basico;
+
+        [Required]
+        public Temario Temario { get; set; } = new Temario();//En cada curso existirá temarios
+        
+        [Required]
+        public ICollection<Categoria> Categorias { get; set; }= new List<Categoria>();//Como categorías puede estar en varios cursos, tenemos que hacer la situación inversa
+
+        [Required]
+        public ICollection<Estudiante> Estudiantes { get; set; } = new List<Estudiante>();//En cada curso estará los estudiantes
+
+        
+
     }
 
     public enum Nivel
     {
-        Básico,
+        Basico,
         Intermedio,
         Avanzado,
+        Experto
     }
 }
