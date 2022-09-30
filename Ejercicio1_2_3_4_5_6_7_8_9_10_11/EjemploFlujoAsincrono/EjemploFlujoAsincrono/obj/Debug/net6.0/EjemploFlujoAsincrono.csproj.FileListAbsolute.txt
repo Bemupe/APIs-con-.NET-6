@@ -1,0 +1,15 @@
+C:\Users\benmu\source\repos\APIs-con-.NET-6\EjemploFlujoAsincrono\EjemploFlujoAsincrono\bin\Debug\net6.0\EjemploFlujoAsincrono.exe
+C:\Users\benmu\source\repos\APIs-con-.NET-6\EjemploFlujoAsincrono\EjemploFlujoAsincrono\bin\Debug\net6.0\EjemploFlujoAsincrono.deps.json
+C:\Users\benmu\source\repos\APIs-con-.NET-6\EjemploFlujoAsincrono\EjemploFlujoAsincrono\bin\Debug\net6.0\EjemploFlujoAsincrono.runtimeconfig.json
+C:\Users\benmu\source\repos\APIs-con-.NET-6\EjemploFlujoAsincrono\EjemploFlujoAsincrono\bin\Debug\net6.0\EjemploFlujoAsincrono.dll
+C:\Users\benmu\source\repos\APIs-con-.NET-6\EjemploFlujoAsincrono\EjemploFlujoAsincrono\bin\Debug\net6.0\ref\EjemploFlujoAsincrono.dll
+C:\Users\benmu\source\repos\APIs-con-.NET-6\EjemploFlujoAsincrono\EjemploFlujoAsincrono\bin\Debug\net6.0\EjemploFlujoAsincrono.pdb
+C:\Users\benmu\source\repos\APIs-con-.NET-6\EjemploFlujoAsincrono\EjemploFlujoAsincrono\obj\Debug\net6.0\EjemploFlujoAsincrono.csproj.AssemblyReference.cache
+C:\Users\benmu\source\repos\APIs-con-.NET-6\EjemploFlujoAsincrono\EjemploFlujoAsincrono\obj\Debug\net6.0\EjemploFlujoAsincrono.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benmu\source\repos\APIs-con-.NET-6\EjemploFlujoAsincrono\EjemploFlujoAsincrono\obj\Debug\net6.0\EjemploFlujoAsincrono.AssemblyInfoInputs.cache
+C:\Users\benmu\source\repos\APIs-con-.NET-6\EjemploFlujoAsincrono\EjemploFlujoAsincrono\obj\Debug\net6.0\EjemploFlujoAsincrono.AssemblyInfo.cs
+C:\Users\benmu\source\repos\APIs-con-.NET-6\EjemploFlujoAsincrono\EjemploFlujoAsincrono\obj\Debug\net6.0\EjemploFlujoAsincrono.csproj.CoreCompileInputs.cache
+C:\Users\benmu\source\repos\APIs-con-.NET-6\EjemploFlujoAsincrono\EjemploFlujoAsincrono\obj\Debug\net6.0\EjemploFlujoAsincrono.dll
+C:\Users\benmu\source\repos\APIs-con-.NET-6\EjemploFlujoAsincrono\EjemploFlujoAsincrono\obj\Debug\net6.0\ref\EjemploFlujoAsincrono.dll
+C:\Users\benmu\source\repos\APIs-con-.NET-6\EjemploFlujoAsincrono\EjemploFlujoAsincrono\obj\Debug\net6.0\EjemploFlujoAsincrono.pdb
+C:\Users\benmu\source\repos\APIs-con-.NET-6\EjemploFlujoAsincrono\EjemploFlujoAsincrono\obj\Debug\net6.0\EjemploFlujoAsincrono.genruntimeconfig.cache
